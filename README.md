@@ -1,8 +1,5 @@
 # Conteudos
 Links Utilitários:
-LIVE-SHARE:
-↳ https://prod.liveshare.vsengsaas.visualstudio.com/join?5B3A71AFE6B31510B929E89EE760795F39A7
-
 PLACEHOLDER IMG:
 ↳ https://imageplaceholder.dev/
 
